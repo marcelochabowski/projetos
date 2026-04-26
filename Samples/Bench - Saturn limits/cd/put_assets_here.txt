@@ -1,0 +1,6 @@
+Coloque aqui os arquivos que irão para a imagem de CD do sample.
+
+Este benchmark espera um arquivo:
+- TEST.TGA
+
+Dica: você pode copiar o TEST.TGA do Samples/TestProject/cd (se existir no seu workspace).

@@ -1,0 +1,6 @@
+newmtl dc2_material
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 1
+map_Kd WEP_P001_entry05_DCM1A.bmp

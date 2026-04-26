@@ -1,0 +1,222 @@
+# Blender 4.5.5 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl tex_10
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/download/sega saturn dev/PlayStation - Colony Wars_ Red Sun - Player Ships - Zaibatsu Zu-15A Shinden/PLAYA2 - Zaibatsu Zu-15A Shinden (in-game)/PLAYA2_tex_10.png
+
+newmtl tex_12
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/download/sega saturn dev/PlayStation - Colony Wars_ Red Sun - Player Ships - Zaibatsu Zu-15A Shinden/PLAYA2 - Zaibatsu Zu-15A Shinden (in-game)/PLAYA2_tex_12.png
+
+newmtl tex_13
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/download/sega saturn dev/PlayStation - Colony Wars_ Red Sun - Player Ships - Zaibatsu Zu-15A Shinden/PLAYA2 - Zaibatsu Zu-15A Shinden (in-game)/PLAYA2_tex_13.png
+
+newmtl tex_14
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/download/sega saturn dev/PlayStation - Colony Wars_ Red Sun - Player Ships - Zaibatsu Zu-15A Shinden/PLAYA2 - Zaibatsu Zu-15A Shinden (in-game)/PLAYA2_tex_14.png
+
+newmtl tex_15
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/download/sega saturn dev/PlayStation - Colony Wars_ Red Sun - Player Ships - Zaibatsu Zu-15A Shinden/PLAYA2 - Zaibatsu Zu-15A Shinden (in-game)/PLAYA2_tex_15.png
+
+newmtl tex_16
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/download/sega saturn dev/PlayStation - Colony Wars_ Red Sun - Player Ships - Zaibatsu Zu-15A Shinden/PLAYA2 - Zaibatsu Zu-15A Shinden (in-game)/PLAYA2_tex_16.png
+
+newmtl tex_17
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/download/sega saturn dev/PlayStation - Colony Wars_ Red Sun - Player Ships - Zaibatsu Zu-15A Shinden/PLAYA2 - Zaibatsu Zu-15A Shinden (in-game)/PLAYA2_tex_17.png
+
+newmtl tex_18
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/download/sega saturn dev/PlayStation - Colony Wars_ Red Sun - Player Ships - Zaibatsu Zu-15A Shinden/PLAYA2 - Zaibatsu Zu-15A Shinden (in-game)/PLAYA2_tex_18.png
+
+newmtl tex_19
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/download/sega saturn dev/PlayStation - Colony Wars_ Red Sun - Player Ships - Zaibatsu Zu-15A Shinden/PLAYA2 - Zaibatsu Zu-15A Shinden (in-game)/PLAYA2_tex_19.png
+
+newmtl tex_1_additive
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/download/sega saturn dev/PlayStation - Colony Wars_ Red Sun - Player Ships - Zaibatsu Zu-15A Shinden/PLAYA2 - Zaibatsu Zu-15A Shinden (in-game)/PLAYA2_tex_0.png
+
+newmtl tex_2
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/download/sega saturn dev/PlayStation - Colony Wars_ Red Sun - Player Ships - Zaibatsu Zu-15A Shinden/PLAYA2 - Zaibatsu Zu-15A Shinden (in-game)/PLAYA2_tex_2.png
+
+newmtl tex_20
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/download/sega saturn dev/PlayStation - Colony Wars_ Red Sun - Player Ships - Zaibatsu Zu-15A Shinden/PLAYA2 - Zaibatsu Zu-15A Shinden (in-game)/PLAYA2_tex_20.png
+
+newmtl tex_21
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/download/sega saturn dev/PlayStation - Colony Wars_ Red Sun - Player Ships - Zaibatsu Zu-15A Shinden/PLAYA2 - Zaibatsu Zu-15A Shinden (in-game)/PLAYA2_tex_21.png
+
+newmtl tex_22
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/download/sega saturn dev/PlayStation - Colony Wars_ Red Sun - Player Ships - Zaibatsu Zu-15A Shinden/PLAYA2 - Zaibatsu Zu-15A Shinden (in-game)/PLAYA2_tex_22.png
+
+newmtl tex_26_transparent
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/download/sega saturn dev/PlayStation - Colony Wars_ Red Sun - Player Ships - Zaibatsu Zu-15A Shinden/PLAYA2 - Zaibatsu Zu-15A Shinden (in-game)/PLAYA2_tex_26.png
+
+newmtl tex_3
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/download/sega saturn dev/PlayStation - Colony Wars_ Red Sun - Player Ships - Zaibatsu Zu-15A Shinden/PLAYA2 - Zaibatsu Zu-15A Shinden (in-game)/PLAYA2_tex_3.png
+
+newmtl tex_4
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/download/sega saturn dev/PlayStation - Colony Wars_ Red Sun - Player Ships - Zaibatsu Zu-15A Shinden/PLAYA2 - Zaibatsu Zu-15A Shinden (in-game)/PLAYA2_tex_4.png
+
+newmtl tex_5
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/download/sega saturn dev/PlayStation - Colony Wars_ Red Sun - Player Ships - Zaibatsu Zu-15A Shinden/PLAYA2 - Zaibatsu Zu-15A Shinden (in-game)/PLAYA2_tex_5.png
+
+newmtl tex_6
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/download/sega saturn dev/PlayStation - Colony Wars_ Red Sun - Player Ships - Zaibatsu Zu-15A Shinden/PLAYA2 - Zaibatsu Zu-15A Shinden (in-game)/PLAYA2_tex_6.png
+
+newmtl tex_7
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/download/sega saturn dev/PlayStation - Colony Wars_ Red Sun - Player Ships - Zaibatsu Zu-15A Shinden/PLAYA2 - Zaibatsu Zu-15A Shinden (in-game)/PLAYA2_tex_7.png
+
+newmtl tex_8
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/download/sega saturn dev/PlayStation - Colony Wars_ Red Sun - Player Ships - Zaibatsu Zu-15A Shinden/PLAYA2 - Zaibatsu Zu-15A Shinden (in-game)/PLAYA2_tex_8.png
+
+newmtl tex_9
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd E:/download/sega saturn dev/PlayStation - Colony Wars_ Red Sun - Player Ships - Zaibatsu Zu-15A Shinden/PLAYA2 - Zaibatsu Zu-15A Shinden (in-game)/PLAYA2_tex_9.png

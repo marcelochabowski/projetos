@@ -1,0 +1,81 @@
+OUTPUT_FORMAT(coff-sh)
+SECTIONS {
+	
+	PRELOADER 0x06004000 : {
+		___Preloader = .;
+		*(PRELOADER)
+	}
+
+	SLSTART ALIGN(0x10): {
+		___Start = .;
+		*(SLSTART)
+	}
+
+	.text ALIGN(0x20) :
+	{
+		* (.text*)
+		*(.strings*)
+		*("SEGA_P")
+
+		*(.eh_frame_hdr*)
+		*(.eh_frame*)
+        __etext = .;
+	}
+
+    COMMON ALIGN(0x10): {
+        *(COMMON)
+    }
+
+	SLPROG ALIGN(0x20): {
+		__slprog_start = .;
+		*(SLPROG)
+		__slprog_end = .;
+	}
+
+	.tors  ALIGN(0x10) :
+	{
+		___ctors = . ;
+		*(.ctors*)
+		___ctors_end = . ;
+		___dtors = . ;
+		*(.dtors*)
+		___dtors_end = . ;
+	}
+
+	.data ALIGN(0x10):
+	{
+		* (.data*)
+		__edata = . ;
+	}
+
+	.rodata ALIGN(0x20) :
+	{
+		*(.rodata*)
+	}
+
+	.bss ALIGN(0x10) (NOLOAD):
+	{
+		__bstart = . ;
+		*(.bss*)
+        . = ALIGN(0x10);
+		__bend = . ;
+		_end = .;
+	}
+	
+	HEAP ALIGN(0x10)(NOLOAD):
+	{
+		__heap_start = .;
+	}
+
+	WORK_AREA_DUMMY 0x0000000(NOLOAD):
+	{
+		*(WORK_AREA_DUMMY)
+	}
+	
+	WORK_AREA 0x060C0000 (NOLOAD):
+	{
+		__heap_end = .;
+		*(WORK_AREA)
+		__work_area_end = .;
+	}
+}	
